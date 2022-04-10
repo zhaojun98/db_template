@@ -19,7 +19,7 @@
             <configuration>
               <transformers>
                 <transformer>
-                  <mainClass>com.yl.db_template</mainClass>
+                  <mainClass>com.yl.Template_DB</mainClass>
                 </transformer>
               </transformers>
             </configuration>
